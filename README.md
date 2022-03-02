@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MicaDi
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on any project that would need a helping hand
 - 📫 How to reach me? send me an email to micaeladicicco@gmail.com
 
